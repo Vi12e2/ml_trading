@@ -36,7 +36,7 @@ DRIVE_LAKE     = os.path.join(DRIVE_ROOT, "data_lake")
 H        = 35      # целевой горизонт (часов)
 SEQ_LEN  = 128     # длина окна
 ATR_W    = 35      # ATR окно
-ATR_DYN  = 65     # ATR динамическое окно
+ATR_DYN  = 65      # ATR динамическое окно
 
 os.makedirs(RAW_DIR,     exist_ok=True)
 os.makedirs(DATA_LAKE_DIR, exist_ok=True)
