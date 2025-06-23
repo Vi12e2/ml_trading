@@ -5,7 +5,7 @@ from config import (
 )
 from features import Par_, raw, index_df, FE 
   
-from stratagies import (                      
+from strategies import (                      
     generate_all_nf_signals,
     generate_all_cb_signals,
     generate_all_tsai_signals,
