@@ -1,0 +1,23 @@
+stable-baselines3
+gymnasium
+alpaca-trade-api
+finrl
+exchange-calendars
+stockstats
+ta
+backtesting
+watchdog
+catboost
+yfinance
+plotly
+pyarrow
+optuna
+swifter
+scikit-learn
+tsai @ git+https://github.com/timeseriesAI/tsai.git@main
+wrds
+psycopg2-binary
+fastai
+torch
+d3rlpy
+neuralforecast @ git+https://github.com/Nixtla/neuralforecast.git@main
